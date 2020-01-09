@@ -1,0 +1,61 @@
+/*  selector {
+   propiedad: valor;
+   otra-propiedad: otro-valor;
+}
+
+selector {
+    propiedad: valor;
+    otra-propiedad: otro-valor;
+} 
+==============================
+Tmb se puede usar crtl k c
+==============================
+Hay 4 formas de escrbir colores en CSS
+los predefinidos, son colores ya existentes
+rgb de red-green-blue 3 valores del 0 al 255 
+0, 0, 0 es negro
+255, 255, 255 es blanco
+sist hexadecimal -16 digtos y letrasde la a a la f
+sist hsl Hue, Saturation, Lightness – Matiz, Saturación, Luminosidad
+
+F12 o inspeccionar
+
+h2 {
+    color: rgb(255, 0, 0); 
+}
+*/
+p {
+    color: rgba(50, 47, 255, 0.247);
+    font-size: 60px; /*px de pixeles (unidad minima de una pantalla -celda minima. 16 px es lo mas standard. cambiar tamaño tipografía*/
+}
+
+#pizarnik {
+    color: #97792b;
+    font-size: 24px;
+}
+
+#dickinson {
+    color: green;
+    font-size: 18px;
+}
+
+#woolf {
+    color: violet;
+    font-size: 20 px;
+}
+
+#hope {
+    color:darkgreen;
+}
+
+.poet {
+    color: red;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.quote {
+    color: violet;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}
